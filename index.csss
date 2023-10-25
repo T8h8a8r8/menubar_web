@@ -1,0 +1,47 @@
+body {
+    background-color: #87CEEB; /* Light blue background color */
+   
+    background-size: cover; /* Cover the entire background */
+    background-position: center center; /* Center the image horizontally and vertically */
+    background-attachment: fixed; /* Fixed background, doesn't scroll with content */
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-color: sky blueviolets;
+    color: black;
+    padding: 20px;
+    text-align: center;
+}
+h1 {
+    font-size: 36px;
+    margin: 0;
+}
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+nav li {
+    display: inline;
+    margin-right: 20px;
+}
+main {
+    padding: 20px;
+}
+
+
+h2 {
+    color: #333;
+}
+p {
+    color: #666;
+}
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
